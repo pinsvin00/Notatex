@@ -7,12 +7,10 @@ Action of application you can find in demos/ folder on this git repository.
 
 In order to run Notatex just follow the instructions below
 
-``
+```
 yarn install
-
 yarn start
-
 Then follow the instructions visible in your terminal
-``
+```
 
 
